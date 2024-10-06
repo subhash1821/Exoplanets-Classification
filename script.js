@@ -13,27 +13,27 @@ const levels = [
             {
               question: "What is a terrestrial exoplanet?",
               options: ["A gas giant", "A rocky planet", "An icy planet", "A planet with rings"],
-              answer: 2
+              answer: 1
             },
             {
               question: "What is a Super-Earth?",
               options: ["A planet smaller than Earth", "A planet larger than Earth but smaller than Neptune", "A planet the same size as Earth", "A gas giant"],
-              answer: 2
+              answer: 1
             },
             {
               question: "What characterizes Hot Jupiters?",
               options: ["They are icy.", "They orbit very far from their stars.", "They orbit very close to their stars.", "They are rocky planets."],
-              answer: 3
+              answer: 2
             },
             {
               question: "Ice giants like Neptune and Uranus are primarily composed of:",
               options: ["Metal", "Rock", "Ice", "Gas"],
-              answer: 3
+              answer: 2
             },
             {
               question: "What is the habitable zone?",
               options: ["A region too close to a star", "A zone where life cannot exist", "A region around a star where conditions may be right for life", "A zone of gas giants"],
-              answer: 3
+              answer: 2
             }
           ]
           
